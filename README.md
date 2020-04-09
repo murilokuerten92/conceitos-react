@@ -1,6 +1,6 @@
 <h1>Desafio React GoStack </h1>
 
-<small> O objetivo desse desafio era implementa uma listagem dos repósitorios da api, adicionar novos e
+<small> O objetivo desse desafio era implementar uma listagem dos repósitorios da api, adicionar novos e
 excluir um em específico. Após a finalização foram realizados os testes e concluído com sucesso.
 
 
